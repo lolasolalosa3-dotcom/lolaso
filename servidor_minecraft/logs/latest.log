@@ -1,0 +1,178 @@
+[10Oct2025 00:01:38.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Isn't It Iron Pick]
+[10Oct2025 00:11:48.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Chest Slayer]
+[10Oct2025 00:15:52.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Diamonds!]
+[10Oct2025 00:16:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Not Today, Thank You]
+[10Oct2025 00:44:12.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.125.54.179:57479] logged in with entity id 22214 at (159.40661311474972, 67.0, 3635.9713351661867)
+[10Oct2025 00:44:12.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[10Oct2025 00:44:40.925] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[10Oct2025 00:44:40.925] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[10Oct2025 00:44:43.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[10Oct2025 00:44:44.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[10Oct2025 00:44:44.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
+[10Oct2025 00:45:07.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> xClas0
+[10Oct2025 00:50:42.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Timed out
+[10Oct2025 00:50:42.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[10Oct2025 00:50:42.888] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[10Oct2025 00:51:13.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.125.54.179:39595] logged in with entity id 25037 at (154.67893702990042, 63.0, 3615.3260827793124)
+[10Oct2025 00:51:13.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[10Oct2025 00:51:41.226] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[10Oct2025 00:51:41.226] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[10Oct2025 00:51:43.739] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[10Oct2025 00:51:44.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[10Oct2025 00:51:44.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
+[10Oct2025 00:52:43.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Timed out
+[10Oct2025 00:52:43.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[10Oct2025 00:52:43.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[10Oct2025 00:53:01.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.125.54.179:51729] logged in with entity id 25763 at (147.49387839926266, 63.0, 3613.5459676678515)
+[10Oct2025 00:53:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[10Oct2025 00:53:31.016] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[10Oct2025 00:53:31.017] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[10Oct2025 00:53:33.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[10Oct2025 00:53:34.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[10Oct2025 00:53:34.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
+[10Oct2025 01:10:49.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Ice Bucket Challenge]
+[10Oct2025 01:18:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Who is Cutting Onions?]
+[10Oct2025 01:22:07.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Double Hungry]
+[10Oct2025 01:25:44.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> gamemode creative
+[10Oct2025 01:26:35.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Sorcerer's Snack]
+[10Oct2025 01:27:19.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:19.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:20.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:20.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:20.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:21.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:21.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:21.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:21.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:22.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:23.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:27:23.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> e
+[10Oct2025 01:28:22.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [We Need to Go Deeper]
+[10Oct2025 01:28:23.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3123ms or 62 ticks behind
+[10Oct2025 01:30:33.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Nightmare Fuel]
+[10Oct2025 01:30:59.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 was pricked to death
+[10Oct2025 01:37:48.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.238.75.144:48099] logged in with entity id 45804 at (874.8135163969171, 74.0, 145.78324950999658)
+[10Oct2025 01:37:48.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[10Oct2025 01:37:49.575] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[10Oct2025 01:37:49.576] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[10Oct2025 01:37:53.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[10Oct2025 01:37:54.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[10Oct2025 01:37:54.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[10Oct2025 01:38:25.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> es.pornhub.com
+[10Oct2025 01:38:42.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> lolasolalosa
+[10Oct2025 01:38:48.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> vezoenelano
+[10Oct2025 01:38:54.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> lolasodildazo
+[10Oct2025 01:51:57.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/51250, l='ServerLevel[world]', x=860.95, y=63.00, z=188.43] died, message: 'Weaponsmith was slain by Zombie'
+[10Oct2025 01:52:30.005] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d370db4[id=<null>,name=walx,properties={},legacy=false] (/127.180.25.246:60247) lost connection: Disconnected
+[10Oct2025 01:52:37.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: walx[/127.180.25.246:44545] logged in with entity id 54878 at (898.8747767023709, 64.0, 125.6331313945376)
+[10Oct2025 01:52:37.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: walx joined the game
+[10Oct2025 01:52:38.960] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of walx (20)
+[10Oct2025 01:52:38.961] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to walx
+[10Oct2025 01:52:44.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 638f5994-d18a-36eb-a3c8-72bd7bfe4153
+[10Oct2025 01:52:45.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 638f5994-d18a-36eb-a3c8-72bd7bfe4153
+[10Oct2025 01:52:45.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player walx (638f5994-d18a-36eb-a3c8-72bd7bfe4153) successfully connected to voice chat
+[10Oct2025 01:53:18.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lolasodildazo[/127.88.224.115:39837] logged in with entity id 55165 at (-1838.1013422961769, 66.0, 1117.7387163228786)
+[10Oct2025 01:53:18.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo joined the game
+[10Oct2025 01:53:19.956] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lolasodildazo (20)
+[10Oct2025 01:53:19.957] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lolasodildazo
+[10Oct2025 01:53:32.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[10Oct2025 01:53:33.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[10Oct2025 01:53:33.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lolasodildazo (0b1b7d6f-cd28-343a-962c-6daa6555dda2) successfully connected to voice chat
+[10Oct2025 01:55:39.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[10Oct2025 01:55:39.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[10Oct2025 01:55:39.007] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[10Oct2025 01:55:46.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.111.91.118:56151] logged in with entity id 56844 at (-1771.300000011921, 69.5625, 1085.5750894994958)
+[10Oct2025 01:55:46.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[10Oct2025 01:55:47.108] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[10Oct2025 01:55:47.108] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[10Oct2025 01:55:51.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[10Oct2025 01:55:52.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[10Oct2025 01:55:52.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[10Oct2025 02:03:19.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Enchanter]
+[10Oct2025 02:03:22.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 was slain by walx
+[10Oct2025 02:03:26.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[10Oct2025 02:03:26.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[10Oct2025 02:03:26.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[10Oct2025 02:06:10.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Not Today, Thank You]
+[10Oct2025 02:07:22.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.111.91.118:49073] logged in with entity id 63466 at (-2395.300000011921, 68.63320510951392, 1208.8997266886545)
+[10Oct2025 02:07:22.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[10Oct2025 02:07:25.510] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[10Oct2025 02:07:25.510] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[10Oct2025 02:07:29.935] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[10Oct2025 02:07:30.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[10Oct2025 02:07:30.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[10Oct2025 02:12:05.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Hot Stuff]
+[10Oct2025 02:17:51.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo has made the advancement [Crops of the Wild]
+[10Oct2025 02:20:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has reached the goal [Dinner's Served!]
+[10Oct2025 02:20:49.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67074, l='ServerLevel[world]', x=-2661.51, y=55.00, z=893.07] died, message: 'Villager was slain by Zombie'
+[10Oct2025 02:30:51.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 moved too quickly! 7.204978903632991,-4.0,5.989871961537716
+[10Oct2025 02:40:10.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[10Oct2025 02:40:12.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> zzzzzzzzzzzzzzz
+[10Oct2025 02:40:14.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> zzzzzzzzzzzzzzzzzzzzzzz
+[10Oct2025 02:40:14.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <walx> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[10Oct2025 02:45:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Adventurous Eater]
+[10Oct2025 02:51:01.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: walx has made the advancement [Chest Slayer]
+[10Oct2025 02:51:41.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[10Oct2025 02:51:41.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[10Oct2025 02:51:41.648] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[10Oct2025 02:57:20.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> duerman
+[10Oct2025 02:57:53.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duerman
+[10Oct2025 02:57:56.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> zzzzzzzzz
+[10Oct2025 03:02:49.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo has made the advancement [Voluntary Exile]
+[10Oct2025 03:16:19.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Gone Bananas!]
+[10Oct2025 03:17:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo has made the advancement [Gone Bananas!]
+[10Oct2025 03:22:25.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lolasodildazo lost connection: Disconnected
+[10Oct2025 03:22:25.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo left the game
+[10Oct2025 03:22:25.855] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lolasodildazo
+[10Oct2025 03:22:27.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[10Oct2025 03:22:27.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[10Oct2025 03:22:27.957] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[10Oct2025 03:22:58.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lolasodildazo[/127.88.224.115:40543] logged in with entity id 113415 at (-1531.854236345817, 72.0, 901.9720694625837)
+[10Oct2025 03:22:58.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo joined the game
+[10Oct2025 03:22:59.713] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lolasodildazo (20)
+[10Oct2025 03:22:59.713] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lolasodildazo
+[10Oct2025 03:23:06.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[10Oct2025 03:23:07.301] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[10Oct2025 03:23:07.301] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lolasodildazo (0b1b7d6f-cd28-343a-962c-6daa6555dda2) successfully connected to voice chat
+[10Oct2025 03:23:08.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.111.91.118:43539] logged in with entity id 113881 at (-1523.780115024546, 89.0, 902.3771771536025)
+[10Oct2025 03:23:08.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[10Oct2025 03:23:10.755] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[10Oct2025 03:23:10.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[10Oct2025 03:23:13.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[10Oct2025 03:23:14.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[10Oct2025 03:23:14.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[10Oct2025 03:34:31.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <walx> DUERRMAAAAANNNN
+[10Oct2025 03:36:50.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[10Oct2025 03:36:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[10Oct2025 03:36:50.458] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[10Oct2025 03:37:23.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.111.91.118:38837] logged in with entity id 123959 at (-1451.1614922922836, 80.0, 997.2040420054165)
+[10Oct2025 03:37:23.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[10Oct2025 03:37:25.205] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[10Oct2025 03:37:25.205] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[10Oct2025 03:37:27.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[10Oct2025 03:37:28.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[10Oct2025 03:37:28.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[10Oct2025 03:46:40.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[10Oct2025 03:46:40.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[10Oct2025 03:46:40.201] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[10Oct2025 03:56:49.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lolasodildazo lost connection: Disconnected
+[10Oct2025 03:56:49.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo left the game
+[10Oct2025 03:56:49.245] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lolasodildazo
+[10Oct2025 03:57:00.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[10Oct2025 03:57:00.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[10Oct2025 03:57:00.844] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[10Oct2025 03:57:05.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: walx lost connection: Disconnected
+[10Oct2025 03:57:05.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: walx left the game
+[10Oct2025 03:57:05.684] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client walx
+[10Oct2025 04:15:56.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Oct2025 04:15:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Oct2025 04:15:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Oct2025 04:15:56.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Oct2025 04:15:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Oct2025 04:15:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Oct2025 04:15:56.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Oct2025 04:15:56.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Oct2025 04:15:56.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Oct2025 04:15:56.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
